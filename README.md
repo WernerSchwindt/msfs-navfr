@@ -1,1 +1,0 @@
-# msfs2020-navfr
