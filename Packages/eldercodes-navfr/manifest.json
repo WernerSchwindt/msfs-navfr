@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "MISC",
+  "title": "NaVFR",
+  "manufacturer": "",
+  "creator": "Elder Codes",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.38.2",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}

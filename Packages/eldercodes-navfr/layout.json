@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/eldercodes-navfr/Thumbnail.jpg",
+      "size": 107676,
+      "date": 133943535003726602
+    },
+    {
+      "path": "html_ui/InGamePanels/CustomPanel/CustomPanel.css",
+      "size": 1757,
+      "date": 133942569634850200
+    },
+    {
+      "path": "html_ui/InGamePanels/CustomPanel/CustomPanel.html",
+      "size": 1806,
+      "date": 133943610510548773
+    },
+    {
+      "path": "html_ui/InGamePanels/CustomPanel/CustomPanel.js",
+      "size": 2323,
+      "date": 133943810450035664
+    },
+    {
+      "path": "html_ui/Textures/Menu/toolbar/ICON_TOOLBAR.svg",
+      "size": 20005,
+      "date": 133942569634879959
+    },
+    {
+      "path": "InGamePanels/eldercodes-panel-navfr.spb",
+      "size": 666,
+      "date": 133943812276891699
+    }
+  ]
+}
